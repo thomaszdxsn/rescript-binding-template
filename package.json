@@ -1,0 +1,18 @@
+{
+  "name": "rescript-xx",
+  "version": "1.0.0-alpha.0",
+  "description": "",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "rescript",
+    "start": "rescript build -with-deps -w",
+    "clean": "rescript clean"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "dependencies": {}
+}
